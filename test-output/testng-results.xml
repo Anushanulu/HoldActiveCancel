@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105114" started-at="2021-09-07T14:55:38Z" finished-at="2021-09-07T14:57:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105114" started-at="2021-09-07T14:55:38Z" finished-at="2021-09-07T14:57:23Z">
+      <class name="HoldActiveCancel_GB_main.AddResponse_Active_GB">
+        <test-method status="PASS" signature="setup()[pri:0, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="setup" is-config="true" duration-ms="11364" started-at="2021-09-07T20:25:38Z" finished-at="2021-09-07T20:25:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="RIPC_Login()[pri:0, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="RIPC_Login" duration-ms="18069" started-at="2021-09-07T20:25:49Z" finished-at="2021-09-07T20:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RIPC_Login -->
+        <test-method status="PASS" signature="search_request()[pri:1, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="search_request" duration-ms="2530" started-at="2021-09-07T20:26:07Z" finished-at="2021-09-07T20:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_request -->
+        <test-method status="PASS" signature="click_req()[pri:2, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="click_req" duration-ms="10008" started-at="2021-09-07T20:26:10Z" finished-at="2021-09-07T20:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_req -->
+        <test-method status="PASS" signature="create_res()[pri:3, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="create_res" duration-ms="20537" started-at="2021-09-07T20:26:20Z" finished-at="2021-09-07T20:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_res -->
+        <test-method status="PASS" signature="add_Attachement()[pri:4, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="add_Attachement" duration-ms="5194" started-at="2021-09-07T20:26:40Z" finished-at="2021-09-07T20:26:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_Attachement -->
+        <test-method status="PASS" signature="fill_resdetails()[pri:5, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="fill_resdetails" duration-ms="1936" started-at="2021-09-07T20:26:45Z" finished-at="2021-09-07T20:26:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_resdetails -->
+        <test-method status="PASS" signature="fill_resAttrdetails()[pri:6, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="fill_resAttrdetails" duration-ms="5277" started-at="2021-09-07T20:26:47Z" finished-at="2021-09-07T20:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_resAttrdetails -->
+        <test-method status="PASS" signature="fill_ratesdetails()[pri:7, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="fill_ratesdetails" duration-ms="602" started-at="2021-09-07T20:26:53Z" finished-at="2021-09-07T20:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_ratesdetails -->
+        <test-method status="PASS" signature="save_Form()[pri:8, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="save_Form" duration-ms="25108" started-at="2021-09-07T20:26:53Z" finished-at="2021-09-07T20:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- save_Form -->
+        <test-method status="PASS" signature="res_Status()[pri:9, instance:HoldActiveCancel_GB_main.AddResponse_Active_GB@754ba872]" name="res_Status" duration-ms="4459" started-at="2021-09-07T20:27:18Z" finished-at="2021-09-07T20:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- res_Status -->
+      </class> <!-- HoldActiveCancel_GB_main.AddResponse_Active_GB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
